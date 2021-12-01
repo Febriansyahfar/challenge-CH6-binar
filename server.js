@@ -43,7 +43,7 @@ app.get("/user/delete", (req, res) => {
 });
 
 app.get("/user/view", (req, res) => {
-  res.render("user/view");
+  res.render("/user/view");
 });
 app.use("/user/getview", require("./routes/api/user-route"));
 

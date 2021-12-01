@@ -13,7 +13,7 @@ $ npm start
 
 ### Database connection
 
-Make sure to edit **config.json** file located in /config folder. Server need to connect to database "games" on postgreSQL
+Make sure to edit **config.json** file located in /config folder. Server need to connect to database "binar-ch-6" on postgreSQL
 
 ### Additional notes
 
